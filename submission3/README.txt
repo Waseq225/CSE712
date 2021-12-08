@@ -6,7 +6,7 @@ https://lucid.app/lucidchart/0f7bf9b5-0eff-4a29-a039-35d6dcb80e53/edit?invitatio
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
-Jurafsky
+Dan Jurafsky and James H. Martin
 3rd edition
 2014
 Pearson
