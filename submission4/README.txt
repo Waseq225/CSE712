@@ -12,7 +12,7 @@ Paper presentation:
 https://docs.google.com/presentation/d/1-6wFmsMOwiqnhTbb42YV4OYhFRT5fNOauZkGgB5zs1Q/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-25th January, 2022
+3rd Febuary, 2022
 
 Paper submission ID: (received) from conference/workshop
 
